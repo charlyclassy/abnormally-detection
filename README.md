@@ -1,3 +1,34 @@
+
+
+# 🧠 AI Anomaly Detection — Deep Learning Autoencoder
+
+This project uses an Autoencoder Neural Network to detect unusual patterns in sensor data.
+
+## 🚀 Launch Live Application
+
+[👉 CLICK HERE TO OPEN AI ANOMALY DETECTION](https://abnormally-detection-a2cgk2vqugf3mkhs675ag2.streamlit.app/)
+
+## 🤖 Deep Learning Model
+
+**Model:** Autoencoder Neural Network
+
+**Framework:** TensorFlow / Keras
+
+**Application:** Anomaly Detection
+
+## 📊 Features
+
+- Upload CSV datasets
+- Train an Autoencoder neural network
+- Detect unusual data patterns
+- Visualise anomalies
+- Train, validate and test the model
+- Evaluate precision, recall and F1-score
+- Download anomaly detection results
+
+
+
+
 > **Holdout v4:** This release includes a visible 60/20/20 training-flow graphic at the top of the Streamlit page. If you do not see the graphic, check that the latest `app.py` was committed to GitHub and that Streamlit has redeployed.
 
 # 🔎 AnomalyLab Pro — Deep Learning Anomaly Detection
